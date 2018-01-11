@@ -1,0 +1,13 @@
+Bounce Rate - percentage of people who leave never having seen more than one page of your site
+
+In general, when you retrieve an HMTL page, a request is sent for the page, and is sent to the requester
+in packets, checked with a checksum and various algorithms to ensure the data is correct.
+
+With a PHP file, a relevant database is searched, whatever information is needed is taken, it builds an
+HTML file to return (though the file extension is still .php) to the client.
+
+CMS/EMS - Content Management System(wordpress) /Education Management System (git)
+
+Java Server Pages - JSP
+Active Server Pages - ASP
+Hypertext Pre-Processor - PHP
